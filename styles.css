@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+:root {
+    --fundo: #FEFEFE;
+    --fonte-primaria: #1D1D1D;
+    --fonte-secundaria: #707070;
+    --azul-primario: #003B94;
+    --azul-secundario: #4F90DF;
+    --borda: #D6D6D6;
+}
+
+.container {
+    max-width: 1920px;
+}
